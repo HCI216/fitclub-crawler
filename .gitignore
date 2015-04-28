@@ -1,0 +1,13 @@
+*.iml
+.idea
+dependency-reduced-pom.xml
+target/
+.DS_Store
+*.out
+production
+dump.rdb
+*/logs
+local
+logs
+*.zip
+*/dependency-reduced-pom.xml
